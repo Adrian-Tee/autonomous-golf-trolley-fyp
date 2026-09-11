@@ -1,0 +1,15 @@
+task: segment
+name: golf-terrain-traversability
+description: ''
+bytes: 54422334
+url: https://platform.ultralytics.com/172301-172301/datasets/golf-terrain-traversability
+version: latest
+created_at: '2026-07-03T05:28:51.271Z'
+updated_at: '2026-07-03T12:38:04.160Z'
+names:
+  0: preferred_traversable
+  1: low_preferred_traversable
+  2: non_traversable
+train: images/train
+val: images/val
+hash: f00cdbe2
